@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722280374859",
+    "project_id": "humanation-a4a4d",
+    "storage_bucket": "humanation-a4a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722280374859:android:6e2702a4056cdeef5f23ce",
+        "android_client_info": {
+          "package_name": "com.example.humanation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722280374859-2uh7toc46kg3tr4djfj5j8maljm20d5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJGKmKd7esnfKL6V5UqVkawj7QRXJeqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722280374859-2uh7toc46kg3tr4djfj5j8maljm20d5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
